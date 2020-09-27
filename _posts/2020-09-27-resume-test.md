@@ -1,5 +1,5 @@
 ---
-title: "Resume-Test"
+title: "Resume"
 date: 2020-09-27
 ---
-this is a test
+![headshot](headshot.jpg)
